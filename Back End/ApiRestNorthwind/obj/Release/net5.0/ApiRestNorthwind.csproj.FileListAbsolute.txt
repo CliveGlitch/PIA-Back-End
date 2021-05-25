@@ -1,0 +1,65 @@
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Northwind Database.deps.json
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Northwind Database.runtimeconfig.json
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Northwind Database.runtimeconfig.dev.json
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Northwind Database.exe
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\appsettings.Development.json
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\appsettings.json
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\ApiRestNorthwind.exe
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\ApiRestNorthwind.deps.json
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\ApiRestNorthwind.runtimeconfig.json
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\ApiRestNorthwind.runtimeconfig.dev.json
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\ApiRestNorthwind.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\ref\ApiRestNorthwind.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\ApiRestNorthwind.pdb
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Northwind Database.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\bin\Release\net5.0\Northwind Database.pdb
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.csprojAssemblyReference.cache
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.AssemblyInfoInputs.cache
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.AssemblyInfo.cs
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.csproj.CoreCompileInputs.cache
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.MvcApplicationPartsAssemblyInfo.cs
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\staticwebassets\ApiRestNorthwind.StaticWebAssets.Manifest.cache
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\staticwebassets\ApiRestNorthwind.StaticWebAssets.xml
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\scopedcss\bundle\ApiRestNorthwind.styles.css
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.RazorTargetAssemblyInfo.cache
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.csproj.CopyComplete
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ref\ApiRestNorthwind.dll
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.pdb
+D:\Repo\Northwind Database\SOLID & SC\ApiRestNorthwind\obj\Release\net5.0\ApiRestNorthwind.genruntimeconfig.cache
